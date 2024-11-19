@@ -4,6 +4,9 @@ Git atau Version Control System adalah merupakan tools yang digunakan untuk kola
 
 Pada tanggal 13 November belajar tentang git yaitu dengan perintah yang dipelajari adalah:
 
+## Repo ini menggunakan ssh 
+ssh untuk git adalah agar saat mengakases repository dapat mengotentikasi dan mengamankan koneksi saat Anda mengakses repository.
+
 ## Kode Perintah Git
 
 Git Init = Membuat atau meng inisialisasi sebuah repository git untuk di local
